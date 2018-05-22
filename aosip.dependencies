@@ -2,7 +2,7 @@
   {
     "repository": "ValidusOs-Devices/device_motorola_sanders",
     "target_path": "device/motorola/sanders",
-    "branch": "8.1"
+    "branch": "aosip"
   },
   {
     "repository": "BigTopKrazies/vendor_motorola_sanders",
